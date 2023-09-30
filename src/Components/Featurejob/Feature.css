@@ -1,0 +1,60 @@
+.address{
+
+display: flex;
+align-items: center;
+
+}
+
+.salary{
+display: flex;
+align-items: center;
+
+}
+.Features{
+
+
+    border: 1px solid blueviolet;
+    margin: 30px;
+    padding: 30px 110px
+    
+}
+
+.fimg{
+
+    width:120px
+}
+
+.icon{
+    width:30px;
+    height: 30px;
+    
+}
+.jobbtn{
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: white;
+
+    color:aqua;
+    font-size: large;
+    border:1px solid aqua;
+    border-radius: 10%;
+
+}
+
+.jobbtn:hover{
+
+    background-color: aqua;
+    color: white;
+}
+
+.fbutton{
+
+    margin: 10px;
+    padding: 10px;
+    color: hsl(0, 0%, 100%);
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+    
+}

@@ -1,0 +1,32 @@
+.FJP h1,.FJP p{
+
+text-align:  center;
+
+}
+
+.FeatureJobs{
+
+margin-top: 40px;
+
+}
+.Feature{
+    margin-top:100px ;
+
+display: grid;
+grid-template-columns: 50% 50% ;
+
+justify-content: space-around;
+
+
+}
+.showMoreButton{
+    background-color:aqua;
+    width: 100px;
+    height: 30px;
+    border: none;
+    font-weight: bold;
+    margin-left: 500px;    
+
+
+
+}

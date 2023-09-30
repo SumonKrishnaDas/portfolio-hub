@@ -1,0 +1,153 @@
+[
+    {
+        "id": "01",
+        "icon": "./fakeData/FeaturesCategory/google.png",
+        "title": "Technical Database Engineer",
+        "brand": "Google LLC",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100K-150K",
+        "description": "A Technical Database Engineer is responsible for designing, implementing, and maintaining complex database systems that are critical to the operation of an organization. This role involves working with various teams to identify business requirements, designing database schemas, optimizing database performance, and ensuring data security and integrity.",
+        "responsibility": "The job responsibility of a Technical Database Engineer is to design, implement, maintain, and optimize complex database systems to meet business requirements and ensure data security, integrity, and performance. They troubleshoot issues, develop policies and standards, collaborate with other teams, provide technical support and guidance, and stay up-to-date with emerging database technologies and trends.",
+        "educationalrequirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2-3",
+        "availableJobType": [
+            {
+                "id": "011",
+                "name": "Remote"
+            },
+            {
+                "id": "012",
+                "name": "Full Time"
+            } 
+        ],
+        "phone" : "01709005321",
+        "email" : "paulpollob71@gmail.com",
+        "address" : "Kajal Shah, Osmani Medical Road, Sylhet"
+    },
+    {
+        "id": "02",
+        "icon": "./fakeData/FeaturesCategory/netflix.png",
+        "title": "Senior Product Designer",
+        "brand": "Netflix",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100K-150K",
+        "description": "A Senior Product Designer creates user-centered designs, collaborates with teams, and ensures accurate design implementation. They conduct research, create wireframes, prototypes, and design systems, and stay up-to-date with design trends. They should have a strong portfolio, communication skills, and design tool proficiency.",
+        "responsibility": "A Senior Product Designer collaborates with cross-functional teams to develop design strategies, conduct user research, create wireframes and prototypes, and define design systems and standards. They are responsible for leading the design of products and services that meet user needs and mentoring junior designers.",
+        "educationalrequirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2-3",        
+        "availableJobType": [
+            {
+                "id": "011",
+                "name": "Onsite"
+            },
+            {
+                "id": "012",
+                "name": "Full Time"
+            } 
+        ],
+        "phone" : "01709005321",
+        "email" : "paulpollob71@gmail.com",
+        "address" : "Kajal Shah, Osmani Medical Road, Sylhet"
+    },
+    {
+        "id": "03",
+        "icon": "./fakeData/FeaturesCategory/tesla.png",
+        "title": "Software Engineer",
+        "brand": "Tesla",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100K-150K",
+        "description": "A Software Engineer is responsible for developing and maintaining software applications. They analyze user needs, design software solutions, write and test code, and deploy and maintain applications. A successful Software Engineer has proficiency in programming languages, problem-solving skills, and experience in software development methodologies.",
+        "responsibility": "A Software Engineer is responsible for developing and maintaining software applications, analyzing user needs, designing software solutions, writing and testing code, and deploying and maintaining applications. They use programming languages, problem-solving skills, and software development methodologies to create high-quality software.",
+        "educationalrequirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2-3",
+        "availableJobType": [
+            {
+                "id": "011",
+                "name": "Onsite"
+            },
+            {
+                "id": "012",
+                "name": "Full Time"
+            } 
+        ],
+        "phone" : "01709005321",
+        "email" : "paulprokash08@lus.ac.bd",
+        "address" : "Kajal Shah, Osmani Medical Road, Sylhet"
+    },
+    {
+        "id": "04",
+        "icon": "./fakeData/FeaturesCategory/airbnb.png",
+        "title": "Motion Graphic Designer",
+        "brand": "Airbnb LLC",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100K-150K",
+        "description": "A Motion Graphic Designer is a creative professional who specializes in combining visual elements, animation, and audio to create compelling and dynamic motion graphics. They possess a unique blend of artistic vision, technical skills, and storytelling ability.",
+        "responsibility": "Developing visually appealing motion graphics and animations for various mediums. Collaborating with clients and creative teams to understand project requirements. Creating storyboards and visual concepts to effectively convey ideas. Selecting appropriate colors, typography, and imagery to enhance visual impact. Utilizing software tools like Adobe After Effects, Premiere Pro, and Cinema 4D. Staying updated with industry trends and techniques. Communicating and collaborating effectively with cross-functional teams. Providing creative input and ideas during brainstorming sessions. Meeting project deadlines and delivering high-quality work. Enhancing the overall visual storytelling experience for audiences.",
+        "educationalrequirements": "Bachelor degree to complete any reputational university.",
+        "experience": "2-3",
+        "availableJobType": [
+            {
+                "id": "011",
+                "name": "Remote"
+            },
+            {
+                "id": "012",
+                "name": "Full Time"
+            } 
+        ],
+        "phone" : "01709005321",
+        "email" : "cse_2012020390@lus.ac.bd",
+        "address" : "Kajal Shah, Osmani Medical Road, Sylhet"
+    },
+    {
+        "id": "05",
+        "icon": "./fakeData/FeaturesCategory/microsoft.png",
+        "title": "Software Engineer",
+        "brand": "Microsoft Corporation",
+        "location": "Redmond, Washington, United States",
+        "salary": "$80,000 - $100,000",
+        "description": "Bachelor's degree in Computer Science or related field, strong programming skills in Java, C++, Python, or JavaScript, knowledge of software engineering principles and methodologies, excellent problem-solving and teamwork abilities.",
+        "responsibility": "Develop and maintain software applications. Collaborate with teams to gather requirements and deliver solutions. Write efficient code using programming languages and frameworks. Test, debug, and troubleshoot software for optimal functionality.",
+        "educationalrequirements": "Bachelor's degree in Computer Science or related field",
+        "experience": "2-3",
+        "availableJobType": [
+            {
+                "id": "011",
+                "name": "Remote"
+            },
+            {
+                "id": "012",
+                "name": "Full Time"
+            } 
+        ],
+        "phone": "123-456-7890",
+        "email": "jobs@abccompany.com",
+        "address": "123 Main Street, New York, USA"
+      },
+      {
+          "id": "06",
+          "icon": "./fakeData/FeaturesCategory/amazon.png",
+          "title": "Marketing Manager",
+          "brand": "Amazon",
+          "location": "Seattle, Washington, United States",
+          "salary": "$80,000 - $100,000",
+          "description": " Develop and execute marketing strategies, lead a team, conduct market research, and collaborate with cross-functional teams.",
+          "responsibility": "Develop and execute comprehensive marketing plans to meet business objectives. Lead and manage a team of marketing professionals, providing guidance and support. Conduct market research to identify consumer insights, market trends, and competitor analysis. Collaborate with cross-functional teams, including sales, product, and creative, to ensure successful implementation of marketing campaigns and initiatives.",
+          "educationalrequirements": "Bachelor's degree in Computer Science or related field",
+          "experience": "2-3",
+          "availableJobType": [
+              {
+                  "id": "011",
+                  "name": "Onsite"
+              },
+              {
+                  "id": "012",
+                  "name": "Full Time"
+              } 
+          ],
+          "phone": "123-456-7890",
+          "email": "jobs@abccompany.com",
+          "address": "123 Main Street, New York, USA"
+        }
+      
+]

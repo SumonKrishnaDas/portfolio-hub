@@ -1,0 +1,19 @@
+.head{
+
+    text-align: center;
+}
+
+.para{
+    text-align: center;
+}
+.job{
+
+margin-top: 70px;
+
+}
+.job-details{
+
+    display: flex;
+   justify-content: center;
+   margin-top: 40px;
+}

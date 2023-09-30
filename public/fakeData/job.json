@@ -1,0 +1,25 @@
+
+
+
+[
+  {
+    "name": "Account & Finance",
+    "numberOfJobs": 500,
+    "icon": "finance-icon.png"
+  },
+  {
+    "name": "Creative Design",
+    "numberOfJobs": 350,
+    "icon": "design-icon.png"
+  },
+  {
+    "name": "Marketing & Sales",
+    "numberOfJobs": 700,
+    "icon": "sales-icon.png"
+  },
+  {
+    "name": "Engineering Job",
+    "numberOfJobs": 600,
+    "icon": "engineering-icon.png"
+  }
+]

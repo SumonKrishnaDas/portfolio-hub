@@ -1,0 +1,33 @@
+.appliedHead{
+background-color: aqua;
+text-align: center;
+color:white;
+padding: 40px;
+border-radius: 10px;
+
+}
+.aplied-section{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 50px 30px;
+}
+.aplied-det-s{
+
+
+    display: flex;
+}
+.aplied-det{
+
+    display:flex;
+   
+    
+  
+}
+.aplied-section{
+
+   
+}
+

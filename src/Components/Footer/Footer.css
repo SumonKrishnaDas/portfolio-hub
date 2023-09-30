@@ -1,0 +1,29 @@
+.footer{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 80px;
+    
+}
+
+.Footer{
+background-color: black;
+color: rgb(172, 164, 154);
+
+}
+.font-bold{
+
+    color: white;
+    font-weight: bold;
+}
+.footer-img{
+
+    background-color: aliceblue;
+    padding: 20px;
+}
+a{
+
+
+    
+    padding: 10px;
+}
