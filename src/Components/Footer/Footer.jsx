@@ -15,9 +15,9 @@ const Footer = () => {
             <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit.<br></br> Ratione quo quam perferendis inventore ipsum dolorum unde <br></br> ullam distinctio facilis quaerat.
             </p>
           
-            <a href='https://www.facebook.com/prokash.paul.pollob'><FaFacebookSquare></FaFacebookSquare></a>
-                        <a href='https://twitter.com/pollob_prokash'><FaTwitterSquare></FaTwitterSquare></a>
-                        <a href='https://www.instagram.com/prokashpollob/'><FaInstagramSquare></FaInstagramSquare></a>
+            <a className='icon' href='https://www.facebook.com/prokash.paul.pollob'><FaFacebookSquare></FaFacebookSquare></a>
+                        <a className='icon' href='https://twitter.com/pollob_prokash'><FaTwitterSquare></FaTwitterSquare></a>
+                        <a className='icon' href='https://www.instagram.com/prokashpollob/'><FaInstagramSquare></FaInstagramSquare></a>
 
 
 

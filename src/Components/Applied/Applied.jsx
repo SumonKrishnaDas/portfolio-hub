@@ -72,7 +72,7 @@ const Applied = () => {
 </div>
 
 
-<Link  to={`jobdetails/${id}`}> <button className='fbutton'>View Details </button> </Link>
+<Link  to={`/jobdetails/${id}`}> <button className='fbutton'>View Details </button> </Link>
                  </section>
 
                                 </div>

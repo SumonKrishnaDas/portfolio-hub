@@ -15,7 +15,8 @@ align-items: center;
 
     border: 1px solid blueviolet;
     margin: 30px;
-    padding: 30px 110px
+    padding: 30px 110px;
+    border-radius: 15px;
     
 }
 

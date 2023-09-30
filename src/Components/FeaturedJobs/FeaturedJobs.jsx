@@ -69,8 +69,17 @@ setVisible((prevalue)=>prevalue-2);
 FeaturedJobs.slice(0,visible).map(FeaturedJob => <Featurejob key={FeaturedJob.id}  Featurejob =  {FeaturedJob} >  </Featurejob>)
 }
 
-<button  className='showMoreButton'  onClick={showMoreItems} > {btn? "Show More Jobs":"Show Less Jobs"}</button>
+
 </div>
+
+<div className='sbutton'>
+
+
+
+<button  className='showMoreButton'  onClick={showMoreItems} > {btn? "Show More Jobs":"Show Less Jobs"}</button>
+
+</div>
+
 
         </div>
     );
