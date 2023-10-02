@@ -5,6 +5,7 @@ import { useParams } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 
 
+let finalApplied = [];
 const Applied = () => {
     const appliedData = getApplied()
 
@@ -21,14 +22,24 @@ const Applied = () => {
 
 
 
-                let finalApplied = [];
                 appliedData.map(apliedId => {
 
                     const d = data.find(fltrD => fltrD.id == apliedId)
                     finalApplied = [...finalApplied, d]
 
                 })
-                setApplied(finalApplied)
+
+
+        setApplied(finalApplied)
+
+
+
+
+
+
+
+
+                
 
             })
 
@@ -36,16 +47,44 @@ const Applied = () => {
 
     }, [])
 
+    
 
 
 
+ const handleRemote=()=>{
+
+    const Remote= finalApplied.filter((dt)=>dt.availableJobType[0].name=="Remote")
+
+    setApplied(Remote)
+ }
+ 
+      
+
+ const handelOnsite =()=>{
 
 
+
+    const onSite = finalApplied.filter((dt)=>dt.availableJobType[0].name=="Onsite")
+    setApplied(onSite)
+
+ }
+
+
+ const handleAll= ()=>{
+
+
+    setApplied(finalApplied)
+    
+     }
 
 
     return (
         <div>
             <h1 className='appliedHead'> Applied Jobs</h1>
+
+            <button className='separateBtn' onClick={handleAll} >All</button>
+            <button className='separateBtn' onClick={handleRemote}  >Remote</button>
+            <button  className='separateBtn' onClick={handelOnsite} >Onsite</button>
 
             <div>
                 {
@@ -58,7 +97,14 @@ const Applied = () => {
                  
                  <section className='aplied-section' > 
 
-<div className=''>
+
+
+{
+    console.log(availableJobType)
+}
+
+
+<div className='aplied-det'>
     <img className='fimg' src={icon} alt="" />
    <div>
    <h5>{title}</h5>

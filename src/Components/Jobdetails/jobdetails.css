@@ -10,4 +10,48 @@
 
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+  
+}
+
+.job-data{
+
+background-color: antiquewhite;
+width: 1500px;
+height: 350px;
+
+
+margin-left:20px;
+border-radius: 10px;
+padding: 20px
+
+
+}
+
+
+.flex{
+
+    display: flex;
+
+    align-items: center;
+}
+
+.applybtn{
+
+
+    margin-top: 20px;
+    background-color: aqua;
+
+    border:none;
+    font-size: large;
+    width:300px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.apply{
+display: flex;
+
+    justify-content: center;
 }

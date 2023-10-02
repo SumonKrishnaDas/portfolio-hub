@@ -1,5 +1,5 @@
 .appliedHead{
-background-color: aqua;
+background-color: #7e90fe;
 text-align: center;
 color:white;
 padding: 40px;
@@ -12,7 +12,10 @@ border-radius: 10px;
     align-items: center;
     justify-content: space-between;
     margin-bottom: 20px;
-    padding: 50px 30px;
+    padding: 10px 30px;
+    border:  1px solid gray;
+
+    border-radius: 10px;
 }
 .aplied-det-s{
 
@@ -22,6 +25,7 @@ border-radius: 10px;
 .aplied-det{
 
     display:flex;
+    align-items: center;
    
     
   
@@ -31,3 +35,20 @@ border-radius: 10px;
    
 }
 
+.separateBtn{
+
+
+    background-color: blueviolet;
+    margin: 10px;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.separateBtn:hover{
+
+
+    background-color: aliceblue;
+    color: blueviolet;
+}

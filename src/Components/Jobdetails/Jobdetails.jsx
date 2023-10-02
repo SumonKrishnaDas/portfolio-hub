@@ -68,7 +68,7 @@ const{icon,title,brand,location,salary,description,responsibility,educationalreq
         
          </div>
 
-<div>
+<div className='job-data' >
 
 
 
@@ -82,11 +82,11 @@ const{icon,title,brand,location,salary,description,responsibility,educationalreq
         </div>
         <div className='flex'>
             <img src={salaryicon} alt="" />
-            <b> &nbsp; Job Title</b>&nbsp;{title}
+            <b> &nbsp; JobTitle</b>&nbsp;{title}
             
             </div>
 
-
+<hr />
             <h3>Contact Information</h3>
                         <hr></hr>
 
@@ -102,7 +102,7 @@ const{icon,title,brand,location,salary,description,responsibility,educationalreq
                             <img src={addressicon}></img>
                             <b>&nbsp;Address: </b>&nbsp;{address}
                         </div>
-                        <button  onClick={()=>applyEvent()} >Apply now</button>
+                      <div className='apply'>      <button className='applybtn'   onClick={()=>applyEvent()} >Apply now</button> </div>
 <ToastContainer/>
               </div>
             

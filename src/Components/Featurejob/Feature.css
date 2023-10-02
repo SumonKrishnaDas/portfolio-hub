@@ -35,16 +35,16 @@ align-items: center;
     padding: 10px 20px;
     background-color: white;
 
-    color:aqua;
+    color:blueviolet;
     font-size: large;
-    border:1px solid aqua;
+    border:1px solid blueviolet;
     border-radius: 10%;
 
 }
 
 .jobbtn:hover{
 
-    background-color: aqua;
+    background-color:blueviolet;
     color: white;
 }
 
@@ -53,7 +53,7 @@ align-items: center;
     margin: 10px;
     padding: 10px;
     color: hsl(0, 0%, 100%);
-    background-color: aqua;
+    background-color:#7e90fe;
     border: none;
     border-radius: 5px;
     font-size: large;
